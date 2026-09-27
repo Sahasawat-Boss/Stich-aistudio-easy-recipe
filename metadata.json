@@ -1,0 +1,6 @@
+{
+  "name": "Easy Cooking - Modern Recipe & Kitchen Companion",
+  "description": "Discover delicious tested recipes, interactive step-by-step cooking mode with timers, smart portion adjustment, and personal favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
